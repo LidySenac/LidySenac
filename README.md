@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hii, eu sou a Lidian 🙅‍♀️🤞
 
-<!--
-**LidySenac/LidySenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+Hii! Me chamo Lidian, tenho 24 anos e sou estudante de Desenvolvimento Full Stack javacript. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal 👩‍💻😊✌!
 
-Here are some ideas to get you started:
+🛠 Habilidades <br>
+HTML <br> CSS <br> Javascript <br> React Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outras seções comuns em perfis do GitHub <br>
+👩‍💻 Estudo atualmente no SENAC Largo Treze
+
+🧠 <br> HTML + CSS + Javascript
+
+👯‍♀️ Procuro colaborar com meus resultados e exercícios
+
+🤔 Procuro ajuda com, de todos que puderem
+
+💬 Me pergunte sobre programação e esenvolvimento de sistemas
+
+📫 Como entrar em contato comigo <br> lidian.poliveira@senacsp.edu.br
+
+😄 Pronomes <br> Ela|dela|
+
+
+🔗 Links
+<br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LidySenac/LidySenac/)
